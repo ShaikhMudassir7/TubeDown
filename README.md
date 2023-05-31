@@ -1,9 +1,8 @@
-# YouTube-Video-Download-Python
-Download YouTube videos using GUI in Python
+# TubeDown - Video Downloader
+the purpose of the application, which is to download videos from YouTube. Download YouTube videos using KivyMD GUI in Python
 
 Intall these dependencies:
-  1.pip install pytube
-  2.pip install tk
+  1.Additionally, make sure you have the necessary dependencies installed (kivy, kivymd, and pytube) to run the code successfully.
   
   
 If error like : HTTP error <some codes like 404/410 • exists do the following
