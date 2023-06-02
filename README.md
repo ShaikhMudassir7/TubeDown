@@ -1,20 +1,39 @@
-# TubeDown - Video Downloader
-the purpose of the application, which is to download videos from YouTube. Download YouTube videos using KivyMD GUI in Python
+# DownTube
 
-Intall these dependencies:
-  1.Additionally, make sure you have the necessary dependencies installed (kivy, kivymd, and pytube) to run the code successfully.
-  
-  
-If error like : HTTP error <some codes like 404/410 • exists do the following
-  1.Check th youtube link properly
-  2.reinstall pytube ( if this doesn't work install pytube3 and unintall pytube)
+DownTube is a video downloading application built with Kivy and KivyMD that allows users to download videos from YouTube. It provides a user-friendly interface for entering the video URL, selecting the download quality, and specifying the download path.
 
+## Features
 
-Thank You 
+- Video downloading from YouTube
+- Option to select video quality
+- Option to download only audio
+- Browse and select download path
+- User-friendly interface
 
-Any Suggestions, Doubts or Help needed --> contact me!
-Follow and Support Me!! 
-Socials: ♥
-   Instagram : @shaikhmvdassir
-   Facebook : https://www.linkedin.com/in/shaikhmudassir7/
-   Mail : send2mudassir@gmail.com
+## Requirements
+
+- Python 3.6 or higher
+- Kivy 2.0.0 or higher
+- KivyMD 0.104.2 or higher
+- pytube 10.5.0 or higher
+
+## Installation
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/your-username/DownTube.git```
+
+Install the required libraries:
+```pip install kivy kivymd pytube```
+
+Run the application:
+```python main.py```
+
+Contact Information
+For any questions or suggestions, please feel free to contact me:
+
+Name: Your Name
+Email: send2mudassir@example.com
+LinkedIn: Your LinkedIn Profile
+Website: Your Website
