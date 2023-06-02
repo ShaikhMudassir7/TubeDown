@@ -35,7 +35,7 @@ DownTube is a video downloading application built with Kivy and KivyMD that allo
 Contact Information
 For any questions or suggestions, please feel free to contact me:
 
-Name: Your Name
-Email: send2mudassir@example.com
-LinkedIn: Your LinkedIn Profile
-Website: Your Website
+- Name: Shaikh Mudassir 
+- Email: send2mudassir@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shaikhmudassir7
+- Website: shaikhmudassir7.github.io
