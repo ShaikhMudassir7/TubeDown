@@ -22,13 +22,15 @@ DownTube is a video downloading application built with Kivy and KivyMD that allo
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/DownTube.git```
+   git clone https://github.com/your-username/DownTube.git
 
-Install the required libraries:
-```pip install kivy kivymd pytube```
+2. Install the required libraries:
+   ```shell
+   pip install kivy kivymd pytube
 
-Run the application:
-```python main.py```
+3. Run the application:
+   ```shell
+   python main.py
 
 Contact Information
 For any questions or suggestions, please feel free to contact me:
