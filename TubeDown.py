@@ -72,16 +72,12 @@ BoxLayout:
         height: self.minimum_height
 
         MDLabel:
-            text: "DownTube"
+            text: "DownTube – By Shaikh Mudassir"
             font_style: "H2"
             theme_text_color: "Secondary"
             halign: "center"
 
-        MDLabel:
-            text: "-By Shaikh Mudassir ❤"
-            font_style: "Caption"
-            theme_text_color: "Secondary"
-            halign: "center"
+
 
     BoxLayout:
         orientation: "horizontal"
