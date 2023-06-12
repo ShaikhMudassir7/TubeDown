@@ -1,4 +1,5 @@
-# DownTube
+
+# TubeDown
 
 DownTube is a video downloading application built with Kivy and KivyMD that allows users to download videos from YouTube. It provides a user-friendly interface for entering the video URL, selecting the download quality, and specifying the download path.
 
