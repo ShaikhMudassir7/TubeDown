@@ -61,6 +61,6 @@ from kivymd.uix.textfield import MDTextField
 from kivymd.uix.selectioncontrol import MDCheckbox
 ```
 ## Program Output:
-![Home Screen](output/op1)
-![Downloaded](output/op1)
-![Console](output/op1)
+![Home Screen](outputs/op1)
+![Downloaded](outputs/op2)
+![Console](outputs/op3)
