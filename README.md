@@ -32,10 +32,30 @@ DownTube is a video downloading application built with Kivy and KivyMD that allo
    ```shell
    python main.py
 
-Contact Information
+## Contact Information
 For any questions or suggestions, please feel free to contact me:
 
 - Name: Shaikh Mudassir 
 - Email: send2mudassir@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shaikhmudassir7
-- Website: shaikhmudassir7.github.io
+- Website: https://shaikhmudassir7.github.io
+
+## Modules Required
+
+```python
+from kivy.lang import Builder
+from kivy.uix.boxlayout import BoxLayout
+from kivy.uix.label import Label
+from kivy.uix.button import Button
+from kivy.uix.textinput import TextInput
+from kivy.uix.checkbox import CheckBox
+from kivy.uix.popup import Popup
+from kivy.app import App
+from pytube import YouTube
+from tkinter import filedialog, messagebox
+from kivymd.app import MDApp
+from kivymd.uix.label import MDLabel
+from kivymd.uix.button import MDRaisedButton
+from kivymd.uix.textfield import MDTextField
+from kivymd.uix.selectioncontrol import MDCheckbox
+```
